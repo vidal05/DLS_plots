@@ -1,3 +1,8 @@
+"""
+Program to plot measurements obtained from DLS experiments
+"""
+
+
 import csv
 import sys
 from matplotlib import pyplot as plt
